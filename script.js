@@ -14,4 +14,4 @@ if(suret > 120) {
     netice = ' cerime goturulmur ';
 }
 
-document.getElementById('suret').innerHTML = 'Siz ' + suret + ' km/saat sureti ile getdiyivize gore sizden ' + netice + ' .'
+document.getElementById('suret').innerHTML = 'Siz ' + suret + ' km/saat sureti ile surduyuvuze gore sizden ' + netice + ' .'
